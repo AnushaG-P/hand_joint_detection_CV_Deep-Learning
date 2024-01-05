@@ -1,5 +1,7 @@
 # Deep Learning Object Detection using Detectron2
 
+Executed By: Anusha Guruprasad
+
 This repository contains code for training an object detection model using Detectron2, a popular computer vision library built by Facebook AI Research (FAIR). The weights for the file can be downloaded from the Detectron2 GitHub location.
 
 ## Setup
